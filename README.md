@@ -18,4 +18,5 @@ Generic Collections: Generic collections are used to store recipes, ingredients,
 Delegate: A delegate is used to notify the user when a recipe exceeds 300 calories.
 Unit Testing: Unit tests are implemented to ensure the accuracy of total calorie calculation, and try-catch exceptions are used to handle errors gracefully.
 
-Link for GitHub: 
+Link for GitHub: https://github.com/ST10386075/part2
+
